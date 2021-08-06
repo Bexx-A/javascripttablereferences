@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgrey;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid darkolivegreen;
+    width: 650px;
+    margin: 0 auto;
+    background-color: lightgreen;
+  }
+  
+  thead {
+    background-color: darkolivegreen;
+  }
+  
+  td {
+    border-top: 1px solid darkolivegreen;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: beige;
+  }
